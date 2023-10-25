@@ -1,6 +1,6 @@
 # ember-radix-ui-icons
 
-[Short description of the addon.]
+An Ember addon version of the [radix-ui/icons](https://github.com/radix-ui/icons) project.
 
 ## Compatibility
 
@@ -15,7 +15,15 @@ ember install ember-radix-ui-icons
 
 ## Usage
 
-[Longer description of how to use the addon in apps.]
+```js
+import Bell from 'ember-radix-ui-icons/components/bell';
+
+<template>
+  <Bell />
+</template>;
+```
+
+See [radix-ui/icons](https://www.radix-ui.com/icons) for a list of all available icons.
 
 ## Contributing
 
