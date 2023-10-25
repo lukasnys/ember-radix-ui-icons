@@ -1,0 +1,3 @@
+packages:
+  - 'ember-radix-ui-icons'
+  - 'test-app'
